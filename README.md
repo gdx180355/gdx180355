@@ -5,6 +5,9 @@ Jestem zjebem
 ![Static Badge](https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge)
 
+## Statystyki
+
+
 ### Kontakt
-[![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge)](mailto:grychmilosz@gmail.com)
+[![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge)](https://gmail.com)
 
