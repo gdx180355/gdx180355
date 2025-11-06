@@ -7,6 +7,7 @@ Jestem zjebem
 
 ## Statystyki
 
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=gdx180355&show_icons=true&theme=radical)
 
 ### Kontakt
 [![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge)](https://gmail.com)
