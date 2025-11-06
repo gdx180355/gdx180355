@@ -1,5 +1,5 @@
 # Hej, z tej strony Miłosz!
-Jestem zjebem
+Jestem...
 
 ## Technologie
 ![Static Badge](https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge)
