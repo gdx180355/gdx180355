@@ -8,7 +8,7 @@ Jestem...
 ## Wybrane projekty
 |Projekt|Opis|Link|
 |-------|----|----|
-|Kuchnie-swiata|Prosty projekt html|https://github.com/gdx180355/Kuchnie-swiata|
+|Kuchnie świata|Prosty projekt html|https://github.com/gdx180355/Kuchnie-swiata|
 
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=gdx180355&show_icons=true&theme=highcontrast)
