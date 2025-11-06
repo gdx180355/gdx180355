@@ -5,6 +5,8 @@ Jestem...
 ![Static Badge](https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdx180355&stats_format=bytes)
+
 ## Wybrane projekty
 |Projekt|Opis|Link|
 |-------|----|----|
