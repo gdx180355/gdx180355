@@ -6,7 +6,6 @@ Jestem...
 ![Static Badge](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge)
 
 ## Statystyki
-
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=gdx180355&show_icons=true&theme=radical)
 
 ### Kontakt
